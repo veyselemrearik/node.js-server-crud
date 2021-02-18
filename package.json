@@ -1,0 +1,14 @@
+{
+  "name": "barty-vaka-calismasi",
+  "version": "1.0.0",
+  "description": "Barty vaka calisması server mekanizmasi olusturma route olusturma ve routelar ile hhtp methodlari ile CRUD islemi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veysel Emre ARIK",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
